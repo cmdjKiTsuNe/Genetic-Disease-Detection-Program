@@ -1,6 +1,4 @@
-# -
-我的我的我的
-##Genetic Disease Detection Program
+# Genetic Disease Detection Program
 
 
 English
