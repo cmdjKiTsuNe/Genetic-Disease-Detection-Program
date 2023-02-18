@@ -6,7 +6,6 @@
 #Program Introduction:
 
 The ultimate goal of this program is to input a base sequence and output disease results after comparison. 
-
 Currently, the program is still in the experimental stage. The file "detection_by_similarity.py" in the directory is a program that outputs results by comparing the similarity of base sequences. The main mechanism is to set a threshold and compare the output base sequence with the existing base sequences in the library to determine whether the patient has the disease based on the similarity threshold. Additionally, we are currently attempting to create a program that transcribes the codons in the base sequence into RNA, translates them into proteins, and compares the protein sequences. The general mechanism is described in the Python file comments. If you're interested, you're welcome to take a look and provide your ideas and suggestions for improvement.
 
 #Significance Introduction:
@@ -25,7 +24,6 @@ I am a 17-year-old high school student from China. My school is a boarding schoo
 #程序介绍:
 
 这个程序的最终目标是：通过上传碱基序列进行比对后输出患病结果。
-
 现在仍处于试做的阶段，目录中的 detection_by_similarity.py文件，是通过比较碱基序列相似度，来输出结果的程序。 主要机理就是：设置一个阀值，将输出的碱基序列与库中已经存在的碱基序列进行比对，根据相似度阀值来判断是否患病。另外目前在试图制作一个利用碱基序列中的密码子转录成RNA，并翻译成蛋白质，并比较蛋白质序列的程序。大致机理在py文件中附有注释，若有兴趣欢迎莅临查看，并提出您的想法和改善意见。
 
 #意义介绍:
