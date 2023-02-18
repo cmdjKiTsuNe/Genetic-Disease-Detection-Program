@@ -7,7 +7,7 @@
 
 The ultimate goal of this program is to input a base sequence and output disease results after comparison. 
 
-Currently, the program is still in the experimental stage. The file "detection_by_similarity.py" in the directory is a program that outputs results by comparing the similarity of base sequences. The main mechanism is to set a threshold and compare the output base sequence with the existing base sequences in the library to determine whether the patient has the disease based on the similarity threshold. Additionally, we are currently attempting to create a program that transcribes the codons in the base sequence into RNA, translates them into proteins, and compares the protein sequences. The general mechanism is described in the Python file comments. If you're interested, you're welcome to take a look and provide your ideas and suggestions for improvement.
+Currently, the program is still in the experimental stage. The file "detection_by_similarity.py" in the directory is a program that outputs results by comparing the similarity of base sequences. The main mechanism is to set a threshold and compare the output base sequence with the existing base sequences in the library to determine whether the patient has the disease based on the similarity threshold. Additionally, we are currently attempting to create a program that transcribes the codons in the base sequence into RNA, translates them into proteins, and compares the protein sequences. The general mechanism is described in the Python file comments. If you're interested, you're welcome to take a look and put forward your ideas or suggestions for improvement of this project.
 
 #Significance Introduction:
 
@@ -16,7 +16,7 @@ Genetic diseases are biological diseases caused by gene mutations. The risk of p
 
 #About The Author:
 
-I am a 17-year-old high school student from China. My school is a boarding school, so I can only update or respond to feedback every other week when I go home. In the future, I want to study a life science-related major in college and have a strong interest in the application of Python in the field of life sciences and its derivative libraries. I also hope to make good works and try to solve practical problems. If you have experience in this area, I look forward to your help with this project.
+I am a 17-year-old high school student from China. My school is a boarding school, so I can only update or respond to feedback every other week when I go home. In the future, I want to study a life science-related major in college and have a strong interest in the application of Python in the field of life sciences and its derivative libraries. I also hope to make good works and try to solve practical problems. If you have experience in this field, I look forward to your help with this project.
 
 
 # Chinese
