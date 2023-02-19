@@ -37,3 +37,9 @@ I am a 17-year-old high school student from China. My school is a boarding schoo
 我是一个来自中国的十七岁高中生，学校是寄宿制，每双周才能回家一次，所以可能隔周才可以进行更新，或回复反馈。我未来想考生命科学相关专业的大学，对Python在生命科学领域的应用，及衍生库有着浓厚兴趣。并且希望自己可以做出比较优良的作品，尝试解决实际问题，如果您在这方面有经验，期待您给予这个项目帮助。
 
 
+# Update Log  更新日志
+
+2023.2.19: Uploaded a not very complete program file 'dection_by_protein.py', the idea is to use the DNA to extract the protein and compare the protein, I hope you will give me your advice, move to 'dection_by_protein.py' to view
+
+2023.2.19：上传了一个并不是很完整的程序文件'dection_by_protein.py'，想法是用DNA中取出蛋白质后通过蛋白质比对，望大家不吝赐教，移步到'dection_by_protein.py'查看
+
