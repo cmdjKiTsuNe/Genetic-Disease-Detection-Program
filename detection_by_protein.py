@@ -1,10 +1,22 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan 30 08:40:08 2023
+Created on Mon Feb 17 18:40:28 2023
 
 @author: haoran
 """
+
+'''This is another detection method I came up with: first transcribe the DNA base sequence into RNA base sequence, 
+then translate it into a protein peptide chain and compare the amino acid sequence of the peptide chain.'''
+#这是个我想出来的另一种检测方法：将DNA碱基序列先转录成RNA碱基序列，再翻译成蛋白质的肽链后比对肽链的氨基酸顺序。
+'''Now, it is still in a state of not being able to fully run normally. I have tested several of the core functions. 
+With a small amount of DNA sequence samples, 
+the comparison can be basically completed and the correct results can be output. 
+However, after reading the 'fasta' file in this program, it can't run normally.'''
+#但是目前仍处于无法完全正常运行的状态，我测试过其中的几个核心函数，用少量的DNA序列样本可以基本完成比对并输出正确结果，但是在这个程序里面读取'fasta'文件之后就无法正常运行
+'If someone visits this program, please feel free to enlighten me!'
+#若有人莅临查看，望不吝赐教！
+
 import Bio
 from Bio import SeqIO
 import re
